@@ -21,6 +21,24 @@ The engine of a great story is a character, not a plot.
 - **Honesty in the unbelievable.** Premises can be impossible; emotions
   can't. Ground every fantastical element in a true human feeling.
 
+### Character sheet
+
+For every major character, fill this out (it lives in the story bible):
+
+- **Role**: protagonist / antagonist / mentor / foil…
+- **Wants** (conscious desire) and **Needs** (unconscious)
+- **Strengths**: what they're genuinely great at
+- **Weaknesses**: what undoes them — including the flaw that fights the want
+- **Core quality**: the one-line essence (e.g. "transforms challenges into
+  performances through willpower"; "perceives truth through vibrations,
+  immune to showmanship")
+- **Motivations & backstory**: why the want exists; the wound behind it
+- **Voice**: how they talk, what they avoid saying
+
+Antagonists and mentors get sheets too. In teaching stories, a mentor
+figure (a magical toy, a wise companion) can serve as the moral compass —
+guiding the child protagonist without solving the problem for them.
+
 ## The story spine
 
 The load-bearing skeleton (Pixar's formulation):
@@ -44,10 +62,47 @@ Rules of the spine:
 4. "And ever since then" must show a changed value: the world or the
    character is measurably different from "Once upon a time."
 
+## Story arcs
+
+The spine is the causal skeleton; the **arc** is its shape. Choose one
+deliberately in Phase 1 and record it in the bible:
+
+| Arc | Shape | Reach for it when… |
+|---|---|---|
+| **Classic Arc** (Freytag's Pyramid) | Setup → rising conflict → climax → falling action → resolution | Default; almost always right for children's stories and short pieces |
+| **Hero's Journey** | Call → departure → trials → transformation → return | Quest and transformation stories; the protagonist returns changed |
+| **Three-Act Structure** | Setup / confrontation / resolution | Screenplays and film-shaped stories |
+| **Fichtean Curve** | Crisis after crisis from page one, rising to climax | Conflict-driven, propulsive stories; thrillers |
+| **Circular Narrative** | Ends where it began — but the meaning has changed | Stories about return, cycles, or reframing the familiar |
+| **Braided Narrative** | Multiple storylines converging | Ensemble casts; two lives on a collision course |
+| **Kishōtenketsu** | Introduction → development → twist → reconciliation | Twist without conflict; gentle stories that turn on recontextualization |
+
+The Classic Arc's five points, as a checklist: (1) beginning — world and
+setting introduced; (2) the main character faces conflict; (3) something
+exciting, groundbreaking happens; (4) issues start to resolve;
+(5) resolution.
+
+## World seeds
+
+Grow a world from a structured seed. Fill the slots, then derive rules:
+
+> A world that is a **[environment type]** with **[defining twist]**,
+> inhabited by **[inhabitants]**. The world runs on **[power/resource]**,
+> but people struggle with **[struggle/conflict]**.
+
+Compact form for the bible — **Setting:** [environment type] with
+[defining twist]; **Conflict:** [inhabitants] rely on [power/resource] but
+suffer from [struggle/conflict].
+
+The seed can start from a single word and generate lore outward. The
+*defining twist* and the *struggle/conflict* are what make the world a
+pressure system rather than a backdrop; never leave them generic.
+
 ## Multi-layered construction
 
 Great stories are built like great software: systems thinking AND craft, at
-every layer simultaneously. Weakness at any layer breaks the whole.
+every layer simultaneously (the design parallel). Weakness at any layer
+breaks the whole.
 
 | Layer | What it is | Failure smell |
 |---|---|---|
@@ -68,6 +123,26 @@ A scene is a unit of change. For every scene, be able to answer:
 
 Enter scenes late, leave early. Start as close to the turn as possible.
 
+### Storyboarding (visual and scripted formats)
+
+For storybooks, comics, screenplays, and anything with pictures or a camera,
+break each scene into a **shot/panel list** before drafting — a written
+shot-by-shot sequence to plot out the story:
+
+```
+Scene 2 — Jake defeated in round 2
+  Panel 5: Mid-shot — the punch lands, head snapping back, spit flying.
+  Panel 6: Close-up — the bruised eye swelling.
+  Panel 7: Wide shot — referee watching, Jake stumbling to the ropes,
+           the crowd reacting with shock.
+```
+
+Vary shot grammar deliberately: wide shots establish, close-ups carry
+emotion, POV shots create identification, split-panels create rivalry or
+simultaneity, surreal transitions mark interiority. When two POVs matter
+(e.g. dueling protagonists), board the pivotal sequence from *each*
+perspective — what each character sees is part of the story's state.
+
 ## Voice & dialogue
 
 - Each character should be identifiable from dialogue alone — cover the names
@@ -78,20 +153,42 @@ Enter scenes late, leave early. Start as close to the turn as possible.
 - Subtext over text. Characters rarely say exactly what they mean; the gap
   between what's said and what's meant is where the reader leans in.
 
-## Format-specific notes
+## Format playbooks
 
-- **Children's / bedtime stories**: one clear emotional truth; repetition and
-  rhythm are features; the child protagonist (or stand-in) must solve the
-  problem themselves — adults may help, never rescue.
-- **Teaching stories** (e.g. "teach my son to apologize"): never moralize
-  directly. Let the character feel the consequence, discover the repair, and
-  experience the relief of making it right. The lesson is the arc, not a
-  closing sermon.
-- **Tall tales**: exaggeration escalates beat by beat (big → huge →
-  impossible), but the emotional core stays true and small.
-- **Universe remixes** (e.g. Jake Paul vs. Toph): honor each source's canon
-  rules; the fun is in the collision of logics, not the abandonment of them.
-  Each universe's power system and tone constraints go in the story bible as
-  world rules.
-- **Scripts / screenplays**: everything must be visible or audible; no
-  interiority that a camera can't capture. White space is pacing.
+**Children's / bedtime stories** — one clear emotional truth; repetition and
+rhythm are features; the child protagonist (or stand-in) must solve the
+problem themselves — adults and mentors may guide, never rescue.
+
+**Teaching stories** (e.g. "teach my son to apologize") — never moralize
+directly. Let the character feel the consequence, discover the repair, and
+experience the relief of making it right. The lesson is the arc, not a
+closing sermon. A mentor character (see character sheet) can voice the
+principle *once*, at the turn — e.g. "when we don't share, nobody gets to
+have fun together" — but the protagonist must act on it themselves.
+
+**Tall tales** — exaggeration escalates beat by beat (big → huge →
+impossible), but the emotional core stays true and small.
+
+**Universe remixes** (e.g. Jake Paul in a boxing match against Toph from
+Avatar) — the fun is the collision of logics, not their abandonment.
+Workflow:
+
+1. **Character sheets for both sides** using each source's own logic —
+   strengths, weaknesses, core quality (e.g. Jake: boxing, confidence,
+   ego-driven, needs controlled environments; Toph: earth/metalbending
+   mastery, street-smart, immune to showmanship, emotionally guarded).
+2. **A bridging mechanic** — invent the one new element that lets the
+   universes genuinely interact, and ground it in *both* canons (e.g.
+   "memory-bending": a rare bending art tied to spirit energy that shapes
+   perception instead of elements — it gives the non-bender a way to fight
+   a bender by attacking her deepest vulnerability, not her earth sense).
+   The bridging mechanic must have costs and limits like any world rule.
+3. **Give the outsider a real backstory** in the host universe — wounds,
+   family dynamics, why they fight — so the remix is a story, not a
+   crossover gag.
+4. Record every canon constraint in the bible's world rules and never bend
+   them for convenience.
+
+**Scripts / screenplays** — everything must be visible or audible; no
+interiority a camera can't capture. White space is pacing. Board the scenes
+(see Storyboarding) before writing action lines.
