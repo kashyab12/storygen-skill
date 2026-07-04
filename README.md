@@ -8,6 +8,13 @@ An agent skill that turns your coding agent into a story-writing system:
 specialist reviewer subagents running in parallel. Works with **Cursor**,
 **Claude Code**, and **Codex**.
 
+## Sample Storybooks
+
+Read the generated sample PDFs directly:
+
+- [Pip of Bramblewick Farm](samples/sesame-seed/storybook.pdf)
+- [The Circles of Syracuse](samples/archimedes/storybook.pdf)
+
 Making good stories is becoming easier. Making great stories is still hard —
 because of **data** (the development drafts and revision histories matter as
 much as the finished text), **subjectivity** (stories are judged on
