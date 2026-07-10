@@ -46,6 +46,15 @@ translation are ours.
 
 ## Install
 
+The quickest way, via [skills.sh](https://www.skills.sh/kashyab12/storygen-skill):
+
+```bash
+npx skills add kashyab12/storygen-skill
+```
+
+Or clone and use the bundled installer, which also installs the Braintrust
+subagents:
+
 ```bash
 git clone https://github.com/kashyab12/storygen-skill.git
 cd storygen-skill
